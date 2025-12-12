@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# OS
+.DS_Store
+
+# Output artifacts
+output/
+reports/
+plots/
+*.png
+*.pdf
+*.xlsx
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
